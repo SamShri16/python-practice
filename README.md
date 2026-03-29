@@ -76,6 +76,6 @@ python-practice/
 ## 👨‍💻 Author
 
 Samarth Shrivastava
-B.Tech CSE Student
+[B.Tech CSE Student]
 
 ---
